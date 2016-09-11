@@ -1,4 +1,6 @@
 ---
+layout: dataset
+date: 2016-01-01
 accessURL: ftp://ftp.informatics.jax.org/pub/reports/mgi.gpi.gz
 author: mgi
 compression: gzip

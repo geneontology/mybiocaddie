@@ -1,4 +1,6 @@
 ---
+layout: dataset
+date: 2016-01-01
 accessURL: ftp://ftp.ebi.ac.uk/pub/databases/RNAcentral/current_release/gpi/rnacentral.gpi.gz
 author: rnacentral
 compression: gzip

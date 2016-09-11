@@ -1,4 +1,6 @@
 ---
+layout: dataset
+date: 2016-01-01
 accessURL: http://geneontology.org/gene-associations/submissions/gene_association.PAMGO_Ddadantii.gz
 author: pamgo
 compression: gzip

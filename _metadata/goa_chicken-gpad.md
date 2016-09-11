@@ -1,4 +1,6 @@
 ---
+layout: dataset
+date: 2016-01-01
 accessURL: http://geneontology.org/gpad-gpi/release/submissions/goa_chicken.gpa.gz
 author: goa
 compression: gzip

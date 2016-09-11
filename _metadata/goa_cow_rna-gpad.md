@@ -1,4 +1,6 @@
 ---
+layout: dataset
+date: 2016-01-01
 accessURL: http://geneontology.org/gpad-gpi/release/submissions/goa_cow_rna.gpa.gz
 author: goa
 compression: gzip
